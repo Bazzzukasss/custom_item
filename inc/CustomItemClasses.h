@@ -1,0 +1,11 @@
+class CustomItem;
+class CustomItemData;
+class CustomItemWidget;
+class CustomItemPropertyWidget;
+class CustomItemFrameWidget;
+class CustomItemDelegate;
+class CustomItemTableView;
+class CustomItemTableModel;
+class CustomItemTreeModel;
+class CustomItemTreeView;
+class CustomItemFrameView;
